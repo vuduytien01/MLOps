@@ -1,0 +1,13 @@
+1,gộp dataset xử lý metadata.ipynb
+https://www.kaggle.com/code/vdt1501/mlops-nh-n-di-n-s-u-b-nh-c-y-tr-ng/notebook
+
+2,train-stop-at-task3.ipynb
+acc3:https://www.kaggle.com/code/vdt1501/fork-of-mlops-nh-n-di-n-s-u-b-nh-c-y-tr-ng?scriptVersionId=341706887
+acc2:https://www.kaggle.com/code/vdt1501/fork-of-mlops-nh-n-di-n-s-u-b-nh-c-y-tr-ng?scriptVersionId=341706819
+acc1:https://www.kaggle.com/code/vdt1501/fork-of-mlops-nh-n-di-n-s-u-b-nh-c-y-tr-ng?scriptVersionId=341530871
+3,continue-task3-mlops-c-y-tr-ng .ipynb
+acc3:https://www.kaggle.com/code/vdt1501/continue-task3-mlops-c-y-tr-ng?scriptVersionId=341809099
+acc2:https://www.kaggle.com/code/vdt1501/continue-task3-mlops-c-y-tr-ng?scriptVersionId=341809459
+acc1:https://www.kaggle.com/code/vdt1501/continue-task3-mlops-c-y-tr-ng?scriptVersionId=341632964
+4,average-weight-best-pt-mlops-sau-benh-cay-trong .ipynb
+https://www.kaggle.com/code/vdt1501/average-weight-best-pt-mlops-sau-benh-cay-trong?scriptVersionId=341825253
